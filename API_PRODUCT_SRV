@@ -1,0 +1,15 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Fri Jan 17 12:09:13 UTC 2025
+sap.applicationdevelopment.actions.enabled=true
+User=BEHERAY
+sap.processautomation.enabled=true
+WebIDEEnabled=true
+URL=https\://yawss4hdev.sapyash.com\:44301/sap/opu/odata/sap/API_PRODUCT_SRV
+Name=API_PRODUCT_SRV
+sap.build.usage=odata_gen
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=BasicAuthentication
+Appgyver.Enabled=true
+ProxyType=Internet
